@@ -135,7 +135,7 @@ Indhente egen data
 
 Hønen og ægget - data eller vision først?
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 25/02/19  
 
@@ -185,7 +185,7 @@ Vi skal have information; hvor finder vi det
 - Målet er at udfordre antagelser ved hele at lave “assessment” på vores vidensgrundlag
 - Planlæg etnografisk plan
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 26/02/19
 
@@ -226,7 +226,7 @@ KONKLUSIONER PÅ I DAG
 - Husk søvn
 - Vi var blokerede i dag; problemer med at divergere.
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 28/02/19
 
@@ -350,7 +350,7 @@ Næste trin:
 
 Vi har en masse ideer - kan vi fremstille et mindmap. Vi kan udvinde fællestræk, og så forsamle os om noget vi alle synes er fedt.  
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 07/03/19
 
@@ -372,7 +372,7 @@ Lav den bedste service. Udforsk den gode service.
 
 Motivation for os: gøre noget for alm. brand. Kan gøres ved at gå efter midten.
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 12/03/19
 Vi har præsenteret tanker og proces for Magnus. Vi er enige om den udtryksfulde/ekspressive retning. Lidt kritisk/men også ud fra brief. Vi skal skabe grobund for oplevelser.
@@ -381,7 +381,7 @@ Det skal også være framet, målrettet, så man skabe et scenarie. Vinkle det p
 Øvelse i overmorgen: hvordan kan vi tage en kasse og lave forsikring ud af det.
 Vi er på tærsklen til en byggefase.
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 14/03/19
 - Martins interview
@@ -433,7 +433,7 @@ Vi har diskuteret idéer. En fællesnævner med teknologi som nedhenter informat
 
 Vi har sammenlagt fået lavet en planche til præsentation, der forholder sig til, hvor vi er på nuværende tidspunkt. Vi har nogle vigtige vinkler, og vi har så sandelig snakket meget om det. Ikke desto mindre har vi en fælles vision, og den vision vil vi fremadrettet forholde os til og evt. justere.
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 15/03/19
 
@@ -459,8 +459,7 @@ Task list:
 - Skriv til deltagere
 - Sæt tid af til at kigge noter, tekster og inspirationskilder
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
-
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 ## 19/03/19
 
 Vi har gennemgået hele vores designproces. Vi har fundet ud af, at processen er en konstruktion af alt det arbejde, som vi har lavet. Det er super.
@@ -480,8 +479,7 @@ Idéer:
 På torsdag: igangsat arrangeren af PD-workshop.
 La Cour , vores tech guy , kigger på teknologien.
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
-
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 ## 21/03/19
 
 **Agenda:**
@@ -593,7 +591,7 @@ og illustrerer denne ad hoc med kaffesticks og servietter, dette bliver optakten
 - sammensætte forskellige slags recognition metode programmer
 - præsenteret koncepter og erfaringer gjort over weekenden med wekinator.
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 25/03/19
 I dag har vi arbejdet med at eksternalisere et flowchart for hele systemet i vores projekt. Det har resulteret i et godt overblik over omfanget og identificeringen af mulige problematikker fremadrettet. Vi har derfor også overvejet nogle ændringer til idéen, som vi kan forholde os til på et senere og mere relevant tidspunkt. Essentielt for fremtidigt arbejde er imidlertid, at vi skal arbejde med konkrette teknologier, og det begynder vi på her onsdag og torsdag. Vi skal således have styr på machine learning og identificering af menneske-objekter / gestik med hånd, og det er arbejde, som også er målrettet næste konceptpitch torsdag d. 4 april.
@@ -607,7 +605,7 @@ https://www.youtube.com/watch?v=Qt3ZABW5lD0 : Fundamentals of Machine Learning, 
 
 Wekinator: Kat-eksempel skal kunne udføres af alle medlemmer: med henblik på at forstå interfacet og softwaren. Altså, vi skal ikke bøvle med at skulle sætte det op og navigere.
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 27/03/19
 Vi fik delt  idéen med alle, så alle er nu med. Vi fik konkretiseret de tekniske muligheder. Vi fik eksperimenteret med Kinect, og det er klart muligt at bruge den. Vi mangler at kombinere object recignition og Kinect.
@@ -634,14 +632,13 @@ at få en dybere forståelse for teknologi kræver nogle gange at man går "all 
 
 ![](https://github.com/Magnusaur/wizards_of_buzz.exe/blob/master/Interaktionsdesign%202/Media/Kinect_ML/Skeleton%20tracking.png)
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
-
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 ## 28/03/19
 Pga. manglende manskab tog vi et skridt tilbage og betragtede nøje vores koncept. Vi kom frem til en nøgleindsigt: form og indhold bør spille sammen. Derfor er vi kommer frem til en anden idé, som er mulig at opsøge (se billede) Først og fremmest involverer det imidlertid stadigvæk at vi får etableret en Kinect-prototype. Dette gøres ved at vi hver især opøver vores forståelse for Kinect og processing (opsøger biblioteker såsom OpenCV). På onsdag skal vi således være i stand til at sammensætte en skitse/interaktion til demonstration dagen efter.
 
 ![](https://github.com/Magnusaur/wizards_of_buzz.exe/blob/master/Interaktionsdesign%202/Media/Kinect_ML/Ny%20id%C3%A9.jpg)
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 02/04/19
 ![](https://github.com/Magnusaur/wizards_of_buzz.exe/blob/master/Interaktionsdesign%202/Media/Coding%20and%20fun.jpg)
@@ -772,7 +769,7 @@ void draw() {
 
 - forberede Slides til koncept pitch præsentation af prototype/conceptet.
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 04/04/19
 vi pitchede vores anden konceptpitch idé
@@ -817,7 +814,7 @@ Fremtid: behov for at teste, behov for at udbygge koncept i forlængelse af de t
 
 - komme med eksempler på andre installationer eller udstillinger der gør noget hen af det samme
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 09/04/19
 ![](https://github.com/Magnusaur/wizards_of_buzz.exe/blob/master/Interaktionsdesign%202/Media/prototyping%20og%20ide%20udvikling%20.jpg)
@@ -836,7 +833,7 @@ MVP der skal laves til sluttorsdag:
 - billeder lægges op på sketch i grid
 - Machine Learning laver rammer om enhver person i billedet
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 11/04/19
 
@@ -891,7 +888,7 @@ function draw() {
 }
 ```
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 12/04/19
 ![](https://github.com/Magnusaur/wizards_of_buzz.exe/blob/master/Interaktionsdesign%202/Media/modulo_virker.png)
@@ -903,7 +900,7 @@ vi har også kort snakket om hvordan vi kan udvikle noget forskellige versioner 
 Vi har også snakket om hvordan man yderligere kunne anvende en node.js server for at kommunikkere sketches mellem flere maskiner, og lavet et mindmap for denne kommunikation, med udgangspunkt i shiffmans node.js tutorial serie.
 ![NodeStructure](https://github.com/Magnusaur/wizards_of_buzz.exe/blob/master/Interaktionsdesign%202/Media/Nodejs_structure.jpg)
 
-[TOC](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#table-of-contents)
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
 
 ## 25/04/19
 I dag har vi opnået to ting.
@@ -1004,3 +1001,5 @@ På mandag vil vi forsøge at teste og forberede den endelige pitch til om tirsd
 
 FlowChart:
 [DrawIO_flowchart](https://www.draw.io/?lightbox=1&target=blank&highlight=0000FF&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#R7Vxbb9s6Ev41RpKHY%2Bgu%2BbFJ023RdFtsCuzpU0FLtKVGFrUkldj99YekLpZIOVYaXexge4AcaUTK1Mx8w5nhkDPzZrP9FwZp%2BAUFMJ4ZWrCdme9nhqHrlsb%2Bxym7nOJ6Tk5Y4ygoGu0J99FvWBCLfussCiBpNKQIxTRKm0QfJQn0aYMGMEZPzWYrFDd%2FNQVrqBDufRCr1P9GAQ3L73IW%2BwcfYbQOy592bCt%2FsgFl6%2BJTSAgC9FQjmbcz8wYjRPOrzfYGxpx7JWPyfh8OPK1GhmFCO3VYOvHn7PeP%2F1zfePbP%2BPNX%2BvfnvwppELorvxgGjAHFLcI0RGuUgPh2T73GKEsCyN%2Bqsbt9mzuEUkbUGfEXpHRXSBNkFDFSSDdx8RRuI%2Fp37fpH7fr9tnivuNkVN%2Fko%2BdAOfnxBIijDPnzmi0stAngN6TPtzEpETLkh2kCKd6wfhjGg0WNzHKDQsnXVbi8HdlGI4gVicacUi3bKYrGnFEvx3kcQZ8Uv3bMBU1VYccwMFBfKUxhReJ8C8e1PzEY2Wb6K4vgGxQiLfmZgQy%2BwGJ1QjB5g7YlnLE3HqVj%2BCDGF2%2BeZrjKp6GB6hUUqbHJpoJ5qBq6khTXbZmsDsdVQ2HqbBL0xdeX50PfbmLr0bMvWemKq1WSqrk%2FOVtOe1IrM7c52hPEY72qd%2BO2P%2BrN9N3E3gP0xu04LzisNUNH1G4rYECv1sRd2E5OepBX5wIpekmJUw%2FhzXbEXp%2BII7PXmmK40NGWvOKejK7Y75WRlqpMV8h8gJT%2BjRBF2U5RHDGwP5tI2m%2Fq%2B6GgsK2Lv7JoUAC8xlj0qst1Rkb0p9dg%2BqMco4xb0x9e7r4rsjmgwIGkeLa6iLZdfHyrtNTVa1yZXaV1X%2BHKiOn0CDoDXEQu61q4F44DBU8CQq7%2F25U6RNQlByi8ZN0AcwxitMdgwpqUQR2w0EMvPvu0fjDAFSHgxnI54cQaDi%2Fl%2FuHSP17WueDGmxIs%2BaYKrnkn5U7%2FWGNGx7SzU1zoEous7jMGu1iDlwQ2pvVmKkaQI29KlfOfzzQ13IWlT%2Fvu9hlElA2v2OVqx%2B8sditE8YLbVp5cfsw1Irq4YeeZeK%2BqJQ7RZZmQUE%2Bw0WWS6LSbYbTHBcnDaXybIOncTrI%2BIVqMjWo1Jc9nlMGuYIOARzm9A8gjImXstdtcs33Bei6uw9%2FvH238rfGWfTJvcwJBEv8FSNOCqWdhf1tq%2BntnveZjEoEJy1IioKY7WCbuO4Yq%2FivMx8kH8riBTDrdrwrgfJevvAnt%2FWf1wXbe8pu13PIXtdgvXhwutVEd85rK%2F2u3d%2FW1p2R2w4RxJliSt2PBWJGI1cWCaKg6cMQVink8Ck93UbNapJDX1RcfZ5NUZ8NcBb6EAb85eVE9tfkizZRz5%2FPUwiMDBGcYHODg%2BZ8irSauV0b6aFDhLx%2B5ric7okExqM3hVw%2F5dsxNaTdKeB1g7mJ6BklPhTAZmjwAzui4b5Co%2BFcAMdd3gosDRhxQjiuiOoYeFNBcz4%2FoyYn90FspcX1zNf6VrRnNiPhMtMbta07Zpr3LwMPIh6RDoLIH%2FsBaa9DWjcZSUk5%2BMTJv%2F14ZMR%2FzjPVBCa%2FT8Xz%2BINcxmLGV3Tf8OF0u1uCiFdEK9lM49RZj5BqzZpw1YQ1K2YL%2B4b1QS05LwPeQa0JaG14iPo5TfZ4S%2FTaOiKc9Oli1WzGeHTwg%2F8A9g5lpDOGB444Vd7E8eI1cdU%2BYSwcTnl4gH0iGPncmcj5ffgpLE30Wq7szilC%2BoxkPBgxgQ70ISkJIQcTLglQZawobEH0acxL7yfxkSH7zX95Ikntf0nt1zxVedvYqP6UE2vhNCFN%2BVDzYqZKD5IKUZFp%2Bx3KnfIj6VMNGJFoKJ%2FLMKmIoqN8HRKCFRAKv%2B9UlSCyLMOIXwbt4%2B1qPOahNmCeK4bGCyIBXuJyPYijNqHFptRAyMq1iUy4VREMBEmUwGmGWrqsM6ZktHt%2BHFDgZayzidWXa0ZUjT6TgzWpOuvViTrg%2BcW41EZ5kewOhIRRKOMknGCARiMry8ajOEY%2BZnbTmHbbcYKH1Mp8I%2BG%2FvUJQpwbQUCQ0cBpUSP48Ka1NapCxkcF%2FeZ78Ozy9nKxUam7XbzzQdL2tonVJnRMZjWD8No0InE6lyw30tl5ksXJV0pEVouOx5alXTK%2BLq9%2FTDLkiUPJTR%2FAFF8blh2XGlKnLxsxLIU5n7arOdpRsLLBD6J0HpNLqMNCxJv%2BId8I%2FnFrrzYFvdXrQ5Hla7MlrBDsiQ3EnfLY9mTAOCHrzwYowK0c81uEg1B7csCG02pta3ftK40LwaTmppHTmPGVCwC5yULY6GInCNuxzh%2B0fIXfKC5pAja8L8wfuRcyLuRemOQW5HeYuhyncdn%2FBZAk1d6NixIjg%2BpR%2B%2BBsyMFzqbXIs42v1TXjIHk6ZzMTrYzCM5K%2F%2BfonOpMGpy5JxRwu29IqMYUjpIn7TrTC8QecpTk9qM4Su6k9UdNjTPekMa9Nm%2FXj8aZ1os0zhlD4bwpFW6qbSdd9caddAOVrVZWEUiz9KCHHsItYIKQgqWCWoVJxihxkhyX6m1rG6OuRzpqSukRCGcbId5ZkLSZfb0CMYG83Enmc%2BfU6yQ7gBe6NGG1MbxlMWkwhntnX0w7YprJ6Zpm8l5bTPtHcxkLnKQ8k%2Fl8nknXZHV8cQf7WAd5SPYIE6ajprL2VsR4C2ZEKspvNdzmmIbbm3YPzTQ%2BimN0tQeTnkhSDrMVDuYbgIOu2ZKVaSusGhcPJ7R4c2RebSk17hEjblc%2F3pu0bsNV%2Ffiy5ImkvHQsL3m6zihFyeXFNwwJ%2BfkFXuTZ%2BKo2qt5WUYAcA%2BURYYaU5S3ig812zU9Jm%2FPCJj8EmM4JPz7o56GIQD4dCEBv1Qo4x%2FfgctVT4CBFwW2V%2FdWxbo3crjUY4CY9Duslud0ewVWKYXiH9HWymTSBcW452u5Cfa1X8WcZs4XVwL7tjeDRe2pe4FMS0QhQXoF1KNdyosvT7qJpPaffH%2BipHmI%2B0803KCNQzHYwaK91O%2Bsdap4USFluyyLlqJsGPXVrRe6eU8zuFb%2F8JUcyTXKQoK5pkraXhVZHtmWag3FYPSxIqcw%2Fb45L58TZztQcV%2BsowkexP6FMyIiCCmYeBMt5%2FMkrKAK%2BT4HCdSLqJopyC5yUFRcBBk8txv%2FNFFDomus05Nh28oK2UOU42GGRCzWvVpOj2U2OvKgs301EdpslimFRL1PuRgmih6LABlBZ7IL8KDa05A9j7uaIXvHsxpy9cwgttKOxj4U8RJTAZP6GlUWXjxZrKwMvS0pfWT3FbvdHUucu3v5kb%2FP2Hw%3D%3D)
+
+[TOC](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#table-of-contents)
