@@ -2,30 +2,30 @@
 
 ### Table of Contents
 
-[22/02/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#220219)</br>
-[25/02/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#250219)</br>
-[26/02/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#260219)</br>
-[28/02/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#280219)</br>
-[07/03/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#070319)</br>
-[12/03/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#120319)</br>
-[14/03/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#140319)</br>
-[15/03/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#150319)</br>
-[19/03/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#190319)</br>
-[21/03/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#210319)</br>
-[25/03/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#250319)</br>
-[27/03/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#270319)</br>
-[28/03/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#280319)</br>
-[02/04/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#020419)</br>
-[04/04/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#040419)</br>
-[09/04/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#090419)</br>
-[11/04/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign%202#110419)</br>
-[12/04/19](https://github.com/Magnusaur/wizards_of_buzz.exe/blob/master/Interaktionsdesign%202#120419)</br>
-[25/04/19](https://github.com/Magnusaur/wizards_of_buzz.exe/blob/master/Interaktionsdesign%202#250419)</br>
-[26/04/19](https://github.com/Magnusaur/wizards_of_buzz.exe/blob/master/Interaktionsdesign%202#260419)</br>
-[30/04/19](https://github.com/Magnusaur/wizards_of_buzz.exe/blob/master/Interaktionsdesign%202#300419)</br>
-[02/05/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign_2#020519)</br>
-[06/05/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign_2#060519)</br>
-[10/05/19](https://github.com/Magnusaur/wizards_of_buzz.exe/tree/master/Interaktionsdesign_2#100519)</br>
+[22/02/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#220219)</br>
+[25/02/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#250219)</br>
+[26/02/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#260219)</br>
+[28/02/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#280219)</br>
+[07/03/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#070319)</br>
+[12/03/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#120319)</br>
+[14/03/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#140319)</br>
+[15/03/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#150319)</br>
+[19/03/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#190319)</br>
+[21/03/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#210319)</br>
+[25/03/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#250319)</br>
+[27/03/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#270319)</br>
+[28/03/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#280319)</br>
+[02/04/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#020419)</br>
+[04/04/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#040419)</br>
+[09/04/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#090419)</br>
+[11/04/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#110419)</br>
+[12/04/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#120419)</br>
+[25/04/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#250419)</br>
+[26/04/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#260419)</br>
+[30/04/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#300419)</br>
+[02/05/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#020519)</br>
+[06/05/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#060519)</br>
+[10/05/19](https://github.com/wizardsofbuzz/WoB_Interaktionsdesign-2/blob/master/README.md#100519)</br>
 
 ## 22/02/19
 
